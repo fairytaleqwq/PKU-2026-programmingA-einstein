@@ -27,15 +27,13 @@ Makefile.*
 # ---------- 瀛樻。 ----------
 saves/
 *.sav
+cun1
+
+# ---------- 寮�鍙戞椂鐨勮繃绋嬫埅鍥撅紝鍙湪鏈湴鐣欐。 ----------
+einstein_gui/鎴浘_*.png
 
 # ---------- 鏉傞」 ----------
 aqtinstall.log
 __pycache__/
 Thumbs.db
 .DS_Store
-
-# ---------- 散落的存档 / 临时文件 ----------
-cun1
-
-# 开发时的过程截图，只在本地留档
-einstein_gui/截图_*.png
